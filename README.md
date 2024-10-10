@@ -3,7 +3,7 @@
 
 
 |电台类型 license classes| [A Class](https://en.wikipedia.org/wiki/Amateur_radio_licensing_in_China)|
-| ----------- | ----------- |
+| :----------- | :----------- |
 |通信范围 Communication scope| 省际或涉外 worldwide|
 |设备 radio| [UV-5RH](https://www.baofengradio.co/product/UV-5RH.html)|
 

@@ -8,5 +8,6 @@
 |设备 radio| [UV-5RH](https://www.baofengradio.co/product/UV-5RH.html)|
 
 ![radio UV-5RH](/img/radio.jpg "radio UV-5RH")
-2024-10-10 Yancheng Teachers University 
+
+*2024-10-10 at Yancheng Teachers University
 

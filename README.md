@@ -1,10 +1,11 @@
 # BD4XWH 
 
-
-|电台类型 license classes| [A Class](https://en.wikipedia.org/wiki/Amateur_radio_licensing_in_China)|
+| License classes| [A Class](https://en.wikipedia.org/wiki/Amateur_radio_licensing_in_China)<sup>*1</sup>|
 | :----------- | :----------- |
-|设备 radio| [Baofeng UV-5RH](https://www.baofengradio.co/product/UV-5RH.html)|
+|In use| [Baofeng UV-5RH](https://www.baofengradio.co/product/UV-5RH.html)|
 |E-mail | CQ[a]BD4XWH.COM|
+
+> <sup>*1</sup> VHF 和 UHF, Transmit power ≤ 25 W. (no HF bands)
 
 ![radio UV-5RH](/img/radio.jpg "radio UV-5RH")
 

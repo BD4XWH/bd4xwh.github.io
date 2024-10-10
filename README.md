@@ -5,7 +5,7 @@
 |In use| [Baofeng UV-5RH](https://www.baofengradio.co/product/UV-5RH.html)|
 |E-mail | CQ[a]BD4XWH.COM|
 
-> <sup>*1</sup> VHF 和 UHF, Transmit power ≤ 25 W. (no HF bands)
+> <sup>*1</sup>  VHF and UHF, Transmit power ≤ 25 W. (no HF bands)
 
 ![radio UV-5RH](/img/radio.jpg "radio UV-5RH")
 

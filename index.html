@@ -6,41 +6,70 @@
     <title>BD4XWH</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            background-color: #FFFFE0;
+            color: #000000;
+            margin: 10px;
+        }
+        h1 {
+            color: #0000FF;
         }
         table {
-            width: auto;
-            border-collapse: collapse;
-            margin-bottom: 20px;
-        }
-        table, th, td {
-            border: 1px solid #ddd;
+            width: 70%;
+            border: 1px solid #000000;
+            margin: 20px auto;
+            background-color: #F5F5DC;
         }
         th, td {
-            padding: 10px;
-            text-align: left;
+            padding: 5px;
+            border: 1px solid #000000;
         }
-        th {
-            background-color: #f2f2f2;
+        a {
+            color: #FF0000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
         img {
-            max-width: 100%;
-            height: auto;
             display: block;
-            margin: 20px 0;
+            margin: 20px auto;
+            border: 2px solid #000000;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #808080;
+            margin-top: 30px;
+            clear: both; /* 清除浮动 */
+        }
+        .content {
+            width: 80%;
+            overflow: hidden; /* 清除浮动 */
+        }
+        .text-section {
+            float: left;
+            margin-left: 250px;
+            font-size: 14px;
+            width: 40%;
+            margin-right: 10px; /* 减少右边距 */
+        }
+        .image-section {
+            width: 30%;
+            float: right;
+            margin-left: 0; /* 移除左边距 */
         }
     </style>
 </head>
 <body>
-    <h1>BD4XWH</h1>
+    <h1 align="center">BD4XWH</h1>
 
     <table>
         <thead>
             <tr>
-                <th>License classes</th>
-                <th><a href="https://en.wikipedia.org/wiki/Amateur_radio_licensing_in_China" target="_blank">A Class</a><sup>*1</sup></th>
+                <th style="text-align: left;">License classes</th>
+                <th style="text-align: left;"><a href="https://en.wikipedia.org/wiki/Amateur_radio_licensing_in_China" target="_blank">A Class</a><sup>*1</sup></th>
             </tr>
         </thead>
         <tbody>
@@ -54,10 +83,19 @@
             </tr>
         </tbody>
     </table>
-
-    <img src="img/radio.jpg" alt="Baofeng UV-5RH Radio" title="Baofeng UV-5RH Radio">
-    <p><em>Baofeng UV-5RH (2024-10-10 at Yancheng Teachers University)</em></p>
-
-    <p><sup>*1</sup> VHF and UHF, Transmit power ≤ 25 W. (no HF bands)</p>
+    <div class="content">
+        <div class="text-section">
+            等待更新。。。
+        </div>
+        <div class="image-section">
+            <img src="img/radio.jpg" alt="Baofeng UV-5RH Radio" title="Baofeng UV-5RH Radio">
+            <p align="center"><em>Baofeng UV-5RH (2024-10-10 at Yancheng Teachers University)</em></p>
+        </div>
+    </div>
+    <div class="footer">
+        <hr>
+        <p align="center"><sup>*1</sup> VHF and UHF, Transmit power ≤ 25 W. (no HF bands)</p>
+        © 2024 BD4XWH Radio Page
+    </div>
 </body>
 </html>
